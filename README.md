@@ -1,7 +1,7 @@
 
-# CUSTOMER CHURN PREDICTION USING MACHINE LEARNING.(TELECOMMUNICATION INDUSTRY)
+# PREDICTION OF CUSTOMER ATTRITION PREDICTION USING MLP AND RANDOM FOREST IN THETELECOMMUNICATION INDUSTRY)
 
-Churn refers to the cancelling/terminating a subscription from a particular organisation due to various reasons like poor customer service,high charges etc.
+Attrition refers to the cancelling/terminating a subscription from a particular organisation due to various reasons like poor customer service,high charges etc.
 
 A customer is considered the most important asset in any business setting.An increase in customers means an increase to the organizations profit.However,acquiring of a new customer is more costly than retaining an existing one since different expenses like credit searching,advertising and promotional expenses are incurred.
 
